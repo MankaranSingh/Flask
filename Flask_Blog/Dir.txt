@@ -1,0 +1,3 @@
+C:\Users\Mankaran Singh\Desktop\Flask Web Development\Flask_Blog
+
+# Setup the virtual environment -  pip install -r requirements.txt
